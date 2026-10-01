@@ -1,0 +1,32 @@
+{
+  "schema": "gunnchos.surfacekit.v2",
+  "measured_topology": false,
+  "diagram_note": "Reading aid built from repository headings. It is not a measured topology and it is not a live system.",
+  "nodes": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    }
+  ],
+  "rows": [
+    {
+      "source": "README.md",
+      "scenario_id": "Overview",
+      "site_id": "gunnchAI",
+      "ethical_framing": "# gunnchai AI-UR-013 sandbox Allowlisted test repo for coding-agent DRAFT PRs only. - Agents may open **DRAFT** PRs. - Never merge, never force-push, never push to `main` from agents. - Production repos are out of scope."
+    }
+  ],
+  "sources": [],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "body": "# gunnchai AI-UR-013 sandbox Allowlisted test repo for coding-agent DRAFT PRs only. - Agents may open **DRAFT** PRs. - Never merge, never force-push, never push to `main` from agents. - Production repos are out of scope."
+    }
+  ],
+  "artifacts": [],
+  "methods": "",
+  "cards": [],
+  "runtime_mode": "LOCAL/DEMO",
+  "runtime_boot": false
+}
