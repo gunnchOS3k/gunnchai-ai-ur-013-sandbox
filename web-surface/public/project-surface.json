@@ -1,0 +1,21 @@
+{
+  "repo": "gunnchai-ai-ur-013-sandbox",
+  "productName": "AI-UR-013 sandbox",
+  "family": "gunnchAI",
+  "classification": "BACKEND_CONTROL_SURFACE_WORKER",
+  "acceptedSha": "01d7f37b00c67a836acf48bfddb31fd63ee45e0d",
+  "status": "STAGING_WORKER",
+  "summary": "Allowlisted coding-agent sandbox. The repository's own rule is draft pull requests only.",
+  "capabilities": [
+    "Read the sandbox boundary",
+    "Open the source repository"
+  ],
+  "limitations": [
+    "No public coding agent is hosted on this Worker",
+    "Nothing here is allowed to merge itself"
+  ],
+  "sourceUrl": "https://github.com/gunnchOS3k/gunnchai-ai-ur-013-sandbox",
+  "returnUrlEnv": "GUNNCHOS_PORTAL_URL",
+  "returnUrl": "https://gunnchos-site.gunnchos-finds.workers.dev",
+  "workerName": "gunnchos-ai-ur-013"
+}
